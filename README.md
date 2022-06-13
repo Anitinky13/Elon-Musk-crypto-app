@@ -4,7 +4,6 @@
 ## TABLE OF CONTENTS
 * INTRO
 * MOTIVATION
-* BUILT STATUS
 * CODE STYLE
 * TECH USED
 * FEATURES
@@ -23,9 +22,7 @@ Standard
 ## FEATURES:
 Added some pictures, and elon musk twitter embbed code. 
 ## LINK TO THE WEBSITE:
-
-							  
-## Images
+ https://anitinky13.github.io/Elon-Musk-crypto-app/
 
 ## CONTRIBUTION
 Made with ❤️ by Anastasiya
